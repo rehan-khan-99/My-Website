@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { ArrowRight, Code2 } from "lucide-react";
 
 const skills = [
-  "HTML", "CSS", "JavaScript", "React.js", "Bootstrap", "Node.js", "Laravel", "MySQL", Django
+  "HTML", "CSS", "JavaScript", "React.js", "Bootstrap", "Node.js", "Laravel", "MySQL", "Django",
 ];
 
 const services = [
